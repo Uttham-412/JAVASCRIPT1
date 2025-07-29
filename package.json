@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "main": "arithmetic.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTTHAM-12/Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UTTHAM-12/Javascript/issues"
+  },
+  "homepage": "https://github.com/UTTHAM-12/Javascript#readme",
+  "description": ""
 }
